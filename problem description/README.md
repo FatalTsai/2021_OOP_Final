@@ -8,7 +8,7 @@ tags: 2021_OOP_Final
 github connection: https://github.com/DerrickPikachu/2021_OOP_Final
 
 hackmd connection: https://hackmd.io/XVq1FmLfSMqc44O8sj-sMg?both
-
+hackmd backup : https://hackmd.io/XVq1FmLfSMqc44O8sj-sMg?view&fbclid=IwAR1S6gQ11UvJXKtP1aktaSfI1P_DP_7p3L-J2YENFFSAqpWXhdidWhu8XTM#%E9%A1%8C%E7%9B%AE%E8%AA%AA%E6%98%8E
 [TOC]
 
 ## 題目說明
